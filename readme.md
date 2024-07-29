@@ -42,16 +42,13 @@ Here is an example of how to use the tool:
 
 ## Deployment
 
-The CAPM Analysis Tool can be accessed via the following Streamlit link: [CAPM Analysis Tool](<Your Streamlit Deployment Link>)
+The CAPM Analysis Tool can be accessed via the following Streamlit link: [CAPM Analysis Tool](https://capmodel.streamlit.app/)
 
 ## Installation
 
 To run the application locally, follow these steps:
 
 1. Clone the repository:
-    ```bash
-    git clone <repository_link>
-    ```
 2. Install the required packages:
     ```bash
     pip install -r requirements.txt
@@ -66,7 +63,3 @@ To run the application locally, follow these steps:
 - **app.py**: Main Streamlit application file.
 - **capm.py**: Contains the CAPM class with methods for downloading data, calculating beta, performing regression, and plotting results.
 - **requirements.txt**: List of required Python packages.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
